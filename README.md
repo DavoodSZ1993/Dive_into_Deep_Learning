@@ -8,3 +8,5 @@ This repository is based on the [Dive into Deep Learning](https://d2l.ai/) book.
 ## Chapter 04: Linear Neural Networks for Classification
 
 ## Chapter 05: Multilayer Perceptrons
+
+## Chapter 06. Builders' Guide
