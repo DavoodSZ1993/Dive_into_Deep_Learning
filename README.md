@@ -12,3 +12,5 @@ This repository is based on the [Dive into Deep Learning](https://d2l.ai/) book.
 ## Chapter 06: Builders' Guide
 
 ## Chapter 07: Convolutional Neural Networks
+
+## Chapter 08: Modern Convolutional Neural Networks
